@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kdeepak8250@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SeaTF-ArjMnpNVcMSpgu3SFRCittlhLm/view?usp=sharing](https://drive.google.com/file/d/1SeaTF-ArjMnpNVcMSpgu3SFRCittlhLm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZLJXH88JPCS6jGIqNDta0gmbIdkrCjDG/view?usp=sharing](https://drive.google.com/file/d/1ZLJXH88JPCS6jGIqNDta0gmbIdkrCjDG/view?usp=sharing)
 
 - ⚡ Fun fact **"I love coding and cricket—debugging errors and predicting match outcomes both keep me on my toes!" 🏏💻**
 
