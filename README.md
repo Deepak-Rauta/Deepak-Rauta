@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Rauta</h1>
 <h3 align="center">Hi I'm Deepak Aspiring Data Scientist | Machine learning Enthusiast Passionate about creating impactful data-driven solution.</h3>
 
-- 🔭 I’m currently working on **AI-Powered Chatbot for Food Delivery**
+- 🔭 I’m currently working on **Computer Vision Project**
 
-- 🌱 I’m currently learning **Data Science, ML, DL, NLP, GenAI, SQL**
-
-- 👯 I’m looking to collaborate on **Power BI Project: Sales Performance Analysis**
-
+- 🌱 I’m currently learning **Data Science, ML, DL, NLP, GenAI, SQ, Agent**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Deepak-Rauta](https://github.com/Deepak-Rauta)
 
 - 💬 Ask me about **Python, Machine Learning, NLP, SQL, Statistics**
