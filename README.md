@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Rauta</h1>
 <h3 align="center">Hi I'm Deepak Aspiring Data Scientist | Machine learning Enthusiast Passionate about creating impactful data-driven solution.</h3>
 
-- 🔭 I’m currently working on **Computer Vision Project**
+- 🔭 I’m currently working on **RAG Application Project**
 
-- 🌱 I’m currently learning **Data Science, ML, DL, NLP, GenAI, SQ, Agent**
+- 🌱 I’m currently learning **Data Science, ML, DL, NLP, GenAI, SQL, Agent**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Deepak-Rauta](https://github.com/Deepak-Rauta)
 
-- 💬 Ask me about **Python, Machine Learning, NLP, SQL, Statistics**
+- 💬 Ask me about **Python, Machine Learning, NLP, SQL, Statistics, GenAI**
 
 - 📫 How to reach me **kdeepak8250@gmail.com**
 
