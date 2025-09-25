@@ -11,7 +11,7 @@ Passionate about building <b>AI-powered, data-driven, and impactful solutions</b
 - 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/Deepak-Rauta)
 - 💬 Ask me about **Python, Machine Learning, NLP, SQL, Statistics, Generative AI**
 - 📫 How to reach me: **kdeepak8250@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZLJXH88JPCS6jGIqNDta0gmbIdkrCjDG/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/12ilFfN0uBmS1g-CyqVr1zL7PUcxmdNdH/view?usp=drive_link)
 - ⚡ Fun fact: *"I love coding and cricket—debugging errors and predicting match outcomes both keep me on my toes!"* 🏏💻
 
 ---
